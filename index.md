@@ -1,6 +1,6 @@
  # This is my first home page
 
-
+[HELLO SEE A DOG](image.png) 
 ## Sub header
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis eget nunc lobortis mattis aliquam faucibus. Donec ac odio tempor orci dapibus. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Neque ornare aenean euismod elementum nisi quis. Vel turpis nunc eget lorem dolor sed. Aliquet nibh praesent tristique magna sit amet purus. Scelerisque fermentum dui faucibus in. Pellentesque sit amet porttitor eget dolor morbi non arcu. Donec ultrices tincidunt arcu non sodales neque. Eu lobortis elementum nibh tellus molestie nunc non blandit. Sed risus pretium quam vulputate dignissim suspendisse in est. Placerat duis ultricies lacus sed turpis tincidunt id. Ultrices in iaculis nunc sed augue lacus viverra. Cursus euismod quis viverra nibh cras pulvinar. A iaculis at erat pellentesque adipiscing commodo elit. At lectus urna duis convallis convallis tellus id. Sed risus pretium quam vulputate dignissim suspendisse. Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum.
